@@ -1,5 +1,6 @@
 # LCM
-      The lowest common multiple (LCM) of two whole numbers
+
+The lowest common multiple (LCM) of two whole numbers
 is the smallest whole number which is a multiple of both.
 
 To find LCM we use formula 
